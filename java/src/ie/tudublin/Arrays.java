@@ -8,6 +8,8 @@ public class Arrays extends PApplet{
 
     String[] months = {"JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"};
 
+    float min = rainfall[0];
+    float max = rainfall[0];
     float[] a1 = new float[100];
     float[] a2;
 
@@ -38,6 +40,12 @@ public class Arrays extends PApplet{
         {
             println(rainfall[i] + "\t" + months[i]);
         }
-    }
+
+        
+
+        //Float.MIN_VALUE;
+        //Float.MAX_VALUE;
+
+    }//end of void setup
     
 }
