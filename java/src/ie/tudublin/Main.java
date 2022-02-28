@@ -1,5 +1,7 @@
 package ie.tudublin;
 
+
+
 public class Main
 {
     public static void helloProcessing()
@@ -51,7 +53,7 @@ public class Main
     }
     public static void main(String[] args)
     {
-        loops();
+        arrays();
 
         // Tara Misty
         // Tara Tara
