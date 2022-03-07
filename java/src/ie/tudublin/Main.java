@@ -28,10 +28,6 @@ public class Main
         processing.core.PApplet.runSketch( a, new Arrays());
     }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 2fd863c728ff479b8921ccbe956439ab5505d76a
     public static void audio1()
 	{
 		String[] a = {"MAIN"};
